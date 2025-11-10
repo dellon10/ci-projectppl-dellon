@@ -1,4 +1,4 @@
-name: ci-projectppl-dellon
+name: ci_projectppl_dellon
 
 on:
   push:
